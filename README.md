@@ -1,5 +1,5 @@
 # Team-Watson-First-Task.
-This repository contains the Python scripts used to complete task 0 performed in fulfillment of the HackBio internship requirements.
+Solution to Assignment for Week One.
 The code script prints;
 My Name,
 Email address,
